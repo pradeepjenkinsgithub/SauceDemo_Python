@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./sd_",
+        "./sd_",
+        "./sd_",
+        "./sd_"
+    ]
+}
