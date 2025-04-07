@@ -4,7 +4,7 @@
   Used VSE editor for code development
   
   Tried to avoid hardcode where possible except for baseURL, I am passing it directly!!, 
-  Chosen "Saucedemo" project and as baseURL
+  Current chosen project is "Saucedemo"
   Used conftest.py as the configuration file. I have done some settings for functional test run                                           
 
   To run  please use below command and might be location factor
