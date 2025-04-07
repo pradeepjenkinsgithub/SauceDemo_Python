@@ -3,7 +3,7 @@
   Created separate class for each module
   Used VSE editor for code development
   
-  Tried to avoid hardcode where possible except for baseURL, I am passing it directly
+  Tried to avoid hardcode where possible except for baseURL, I am passing it directly!!, 
   Chosen "Saucedemo" project and as baseURL
   Used conftest.py as the configuration file. I have done some settings for functional test run                                           
 
