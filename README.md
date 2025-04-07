@@ -7,6 +7,6 @@
   Current chosen project is "Saucedemo"
   Used conftest.py as the configuration file. I have done some settings for functional test run                                           
 
-  To run  please use below command and might be location factor
+  To run  please use below command
   pytest --testsuite=regression
   pytest --testsuite="all"
